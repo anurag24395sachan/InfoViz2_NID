@@ -1,0 +1,17 @@
+ body{
+        max-width: 800px;
+        margin: 20px auto;
+        font-family: 'Courier New', Courier, monospace
+        }
+
+        h1{
+           text-transform: uppercase;
+          }
+
+        p{
+         font-size: 20px;
+        }
+
+        .vis{
+        background-color: lightblue;
+        }
